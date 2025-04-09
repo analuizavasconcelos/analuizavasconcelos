@@ -16,13 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="160" src="https://i.ibb.co/7NG9rJPz/96bb0304-d660-48cf-9908-3ba2f88faf2f.png"  />
+<img align="right" height="180" src="https://i.ibb.co/7NG9rJPz/96bb0304-d660-48cf-9908-3ba2f88faf2f.png"  />
 
 ###
 
