@@ -2,7 +2,7 @@
 <p align="left">
   Desenvolvedora Fullstack com foco em <strong>PHP · React · MySQL</strong>.<br>
   Atuo em todas as etapas do produto: análise de requisitos, prototipação no Figma, desenvolvimento e deploy.<br>
-  Atualmente construindo o <strong>PsicoFlow</strong> — sistema de gestão para clínicas de psicologia com arquitetura multi-tenant.<br>
+  Atualmente construindo o <strong>PsicoFlow</strong> sistema de gestão para clínicas de psicologia com arquitetura multi-tenant.<br>
   Estudante de Sistemas de Informação · Explorando React Native para desenvolvimento mobile.
 </p>
 
